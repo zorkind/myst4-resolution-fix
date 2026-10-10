@@ -28,9 +28,17 @@ This modification was developed and tested with:
 
 - **Game:** Myst IV: Revelation
 - **Operating system:** Windows
-- **Resolution:** 2560 × 1440
+- **Resolution:** 1824 × 1368
 
 Compatibility with other resolutions, game distributions and system configurations is not guaranteed.
+
+### Resolution Configuration
+
+The resolution **1824 × 1368** used in my configuration is intentional. It accounts for the space occupied by my Windows taskbar, allowing the game to fit within the available desktop area without overlapping it.
+
+This is a personal configuration choice, not a technical limitation of the fix.
+
+You can adjust the resolution values to match your own monitor, taskbar layout, and preferred display configuration.
 
 ## Building from Source
 
